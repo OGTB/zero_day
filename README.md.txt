@@ -1,5 +1,4 @@
 # ALX
 ## PRE
 ### COURSE
-- ONE
 ---
